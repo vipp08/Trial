@@ -1,0 +1,185 @@
+body
+{
+  background-image: url('foodb.jpg');
+  background-repeat: repeat-y;
+  background-color: rgba(0, 0, 0, 0.51) !important;
+  background-blend-mode: color;
+  }
+h1
+{
+  position: absolute;
+  left: 350px;
+  right: ;
+  color: white;
+  font-family: 'Slabo', serif;
+  font-size: 50px;
+  text-align: center;
+  border: 1px solid black;
+  box-shadow: 2px 6px 3px black;
+  width: 60%;
+  background-color: rgba(186, 246, 204, 0.5);
+}
+#support
+{
+  position: sticky;
+  bottom: 100%;
+  right: 100%;
+  color: white;
+  font-family: 'Slabo', serif;
+  font-size: 40px;
+  text-align: center;
+  width: 10%;
+
+}
+h3
+{
+  position: sticky;
+  left: 350px;
+  right: ;
+
+  color: white;
+  font-family: 'Slabo', serif;
+  font-size: 50px;
+  text-align: center;
+  border: 1px solid black;
+  box-shadow: 2px 6px 3px black;
+  width: 60%;
+  background-color: rgba(186, 246, 204, 0.5);
+}
+map
+{
+  left: 50%;
+}
+.twitter-tweet
+{
+  position: absolute;
+  bottom: 0;
+  background-color: black;
+  image-resolution: from-image;
+}
+#newid
+{
+  position: sticky;
+  bottom: 390;
+  right: 130;
+  font-family: 'Slabo: 25px', serif;
+  font-size: 30px;
+  color:rgba(119, 75, 221, 0.9) ;
+  text-align: center;
+  box-shadow: 2px 16px 3px black;
+  border: 3px groove rgb(242, 245, 180);
+  border-color: rgba(255, 0, 0, 0);
+  background-color: rgba(100,100,100,.50);
+}
+#social
+{
+  position: sticky;
+  bottom: 90;
+  right: 20;
+  font-family: 'Slabo: 25px', serif;
+  font-size: 30px;
+  color:rgba(119, 75, 221, 0.9) ;
+  text-align: center;
+  box-shadow: 2px 16px 3px black;
+  border: 3px groove rgb(242, 245, 180);
+  border-color: rgba(255, 0, 0, 0);
+  background-color: rgba(100,100,100,.50);
+}
+#Sub1
+{
+  position: sticky;
+  bottom: 990;
+  right: 30;
+  font-size: 55px;
+  color: rgb(255, 0, 0);
+  background-color: rgba(100,100,100,.60);
+}
+#menu
+{
+  position: sticky;
+  right: 0;
+  top: 0;
+  /*bottom: 580;
+  right: 250; */
+  font-family: 'Slabo: 25px', serif;
+  color: rgba(242, 101, 55,0.7);
+  text-align: center;
+  font-size: 55px;
+  box-shadow: 2px 16px 3px black;
+  border: 3px groove rgb(242, 245, 180);
+  border-color: rgba(255, 0, 0, 0);
+  background-color: rgba(100,100,100,.50);
+}
+.content
+{
+  position: sticky;
+  bottom: 90;
+  border-style: groove;
+  list-style: georgian;
+  text-align: center;
+  box-shadow: 2px 16px 3px black;
+  border: 3px groove rgb(242, 245, 180);
+  border-color: rgba(255, 0, 0, 0);
+  background-image: url("polygon.jpg");
+  background-color: rgba(100,100,100,.50);
+}
+.content1
+{
+  position: sticky;
+  bottom: 90;
+  font-size: 24px;
+  border-style: groove;
+  list-style: georgian;
+  text-align: center;
+  color: rgb(255, 0, 0);
+  box-shadow: 2px 16px 3px black;
+  border: 3px groove rgb(242, 245, 180);
+  border-color: rgba(255, 0, 0, 0);
+  background-image: url("food1.jpg");
+  background-color: rgba(100,100,100,.50);
+}
+.content2
+{
+  position: sticky;
+  bottom: 90;
+  border-style: groove;
+  list-style: georgian;
+  text-align: center;
+  box-shadow: 2px 16px 3px black;
+  border: 3px groove rgb(242, 245, 180);
+  border-color: rgba(255, 0, 0, 0);
+  color: rgb(255, 0, 0);
+  background-image: url("Untitled.png");
+  background-color: rgba(100,100,100,.50);
+}
+.content3
+{
+  position: sticky;
+  bottom: 90;
+  border-style: groove;
+  list-style: georgian;
+  text-align: center;
+  box-shadow: 2px 16px 3px black;
+  border: 3px groove rgb(242, 245, 180);
+  border-color: rgba(255, 0, 0, 0);
+  background-image: url("connections1.jpg");
+  background-color: rgba(100,100,100,.50);
+}
+#food1
+{
+  position: sticky;
+  bottom: 20;
+  right: 450;
+  text-align: center;
+  background-color: rgba(161, 90, 233, 45%);
+  font-size: 20px;
+}
+#footer
+{
+  position: sticky;
+  bottom: 490;
+  right: 350;
+  text-align: center;
+  background-color: rgba(161, 90, 233, 45%);
+  font-size: 40px;
+}
